@@ -1,0 +1,3 @@
+Color: Yellow
+Silkscreen Color: White
+Dimensions: Width - 136 mm; Height - 136 mm; Diameter of motor opening - 12.2 mm; thickness of ring around motor - 2.22 mm
